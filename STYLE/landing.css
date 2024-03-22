@@ -1,0 +1,174 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.one{
+    background-image: url(l-intro-1674674335.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.one h1{
+    color: white;
+}
+.search{
+    float: right;
+    color: white;
+    padding: 12px 75px;
+}
+
+.navbar{
+    background-color: black;
+    border-radius: 30px;
+    
+  }
+
+  .navbar li{
+    float:right;
+    list-style: none; 
+    margin: 13px 20px;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.navbar input{
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px 17px;
+    width: 129px;
+}
+
+.navbar li a:hover{
+    color: red
+}
+
+.BUTTON2{
+    padding-left: 550px;
+    padding-top: 30px;
+}
+
+.two{
+    margin-top:50px;
+    margin-left:10px;
+    gap:50px;
+    display:flex;
+   
+      }
+
+.icon1{
+    margin-left:110px; 
+    margin-top: 20px;
+    }
+
+    .para1{
+        opacity: 50%;
+        padding-top: 20px;
+        text-align:center;
+        padding: 10px;
+        
+    }
+
+    .head{
+        font-family: cursive;
+        margin-left:80px; 
+    }
+
+.secondwhole{
+
+    border:0px solid black;
+    height: 250px;
+    width: 800px;
+    background-color: rgb(249, 247, 247);
+    border-radius: 10%;
+}
+
+
+
+.come{
+    display: flex;
+    gap:40px;
+    padding: 90px;
+    margin-left: 10PX;
+    margin-top: -40px;
+}
+
+.thrhead{
+    margin-top: 40px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.thrpara{
+    margin-top: 20px;
+    line-height: 27px;
+}
+
+.buttonthree{
+   
+    padding-top: 20px;
+    padding-left: 150px;
+}
+
+.headfour{
+    margin-left: 550px;
+    margin-top: -60px;
+    color:#ff8800;
+}
+
+.time{
+    margin-top:50px;
+    margin-left:10px;
+    gap:50px;
+    display:flex;
+}
+
+.wholepart{
+    
+        display: flex;
+        gap:160px;
+        padding: 90px;
+        margin-left: 290PX;
+        margin-top: -40px;
+    
+}
+
+.wholepart hr{
+    width:100% !important;
+}
+
+.four{
+    margin-left: -50px;
+}
+
+.finalcontact{
+    display: flex;
+    gap:200px;
+    padding: 90px;
+    margin-left: 10PX;
+    margin-top: -40px;
+    
+}
+
+.final{
+    background-color: rgb(24, 13, 43);
+    color: white;
+}
+
+.pp{
+    padding-left: 500px;
+    margin-top: -10px;
+}
